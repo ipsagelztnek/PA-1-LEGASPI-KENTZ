@@ -1,18 +1,15 @@
-# PA-1-LEGASPI-KENTZ
-# Python Code Problems
+Python Practice Problems
 
-This notebook has 3 simple Python problems we solved using functions:
+This repository contains three short Python exercises I worked on for practice. Each problem focuses on a simple but important Python concept: sorting strings, replacing words with emoticons, and unpacking list elements.  
+The goal of this project is to practice basic Python programming. By solving small exercises, I get to apply simple concepts in a way that builds a stronger foundation for bigger coding tasks later on.  
 
-1. **Alphabet Soup**  
-   - Sorts the letters in a word alphabetically.  
-   - Example: `"hello"` → `"ehllo"`
+1.  Alphabet Soup Problem
+This function takes a word and rearranges its letters in alphabetical order.  
+It’s a simple way to practice string manipulation.
 
-2. **Emoticon Problem**  
-   - Replaces certain words (smile, grin, sad, mad) with their matching emoticons.  
-   - Example: `"I am mad"` → `"I am >:("`
+2. This one replaces certain words in a sentence with their corresponding emoticons.
 
-3. **Unpacking List**  
-   - Splits a list into first, middle, and last items.  
-   - Example: `[1, 2, 3, 4, 5, 6]` → first: `1`, middle: `[2, 3, 4, 5]`, last: `6`
-
-Just open the notebook, run each cell, and check the outputs.  
+3. This function unpacks a list into three parts:
+ the first element
+ everything in the middle
+ the last element
