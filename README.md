@@ -29,7 +29,7 @@ def emotify(sentence):
    return " ".join(result)
    This one replaces certain words in a sentence with their corresponding emoticons.
    
-3. Code: d
+3. Code: 
     def unpack_list(lst):
     first, *middle, last = lst
     print("first:", first)
